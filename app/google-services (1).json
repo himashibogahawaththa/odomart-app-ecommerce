@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "890553804769",
+    "project_id": "odo-mart",
+    "storage_bucket": "odo-mart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:890553804769:android:0929f5f9e63a390de0d4a0",
+        "android_client_info": {
+          "package_name": "com.example.odomartadsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "890553804769-g08j5fkbje1vdsiub8qhmim0ksegsuvs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.odomartadsapp",
+            "certificate_hash": "4639f301695e8dfce4ddba5184a2cf3901083f9c"
+          }
+        },
+        {
+          "client_id": "890553804769-o8cplijpjf8geun7jqv7g29qgbbjgj3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvyBYJDtOt35oVFt8Qu0Rr_ARJBbF624Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "890553804769-o8cplijpjf8geun7jqv7g29qgbbjgj3k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

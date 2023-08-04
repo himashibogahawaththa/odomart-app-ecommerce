@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Odo Mart</string>
+
+    //login
+
+    <string name="login_title">Login using your Email and \n Password</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="input_email">Enter your Email</string>
+    <string name="input_pwd">Enter your Password</string>
+    <string name="forgot">Forgot Password?</string>
+    <string name="account_check">Don\'t have an account yet?</string>
+    <string name="login">Login</string>
+    <string name="signup">Signup</string>
+
+    //signup
+
+    <string name="signup_title">Sign up to become a member</string>
+    <string name="name">Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="input_name">Full Name</string>
+    <string name="input_confirm_password">Confirm your Password</string>
+    <string name="agreement">By signing up for an account you agree to our Terms and Conditions</string>
+    <string name="account_exist">Already have an account?</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    //Auth home
+    <string name="welcome">Welcome to OdoMart!</string>
+    <string name="authSubTitle">Log in to manage your account</string>
+    <string name="continueGoogle">Continue with Google</string>
+    <string name="continueFacebook">Continue with Facebook</string>
+    <string name="continueNormal">Login using Email</string>
+    <string name="authBottom">By signing up for an account you agree to our Terms and Conditions</string>
+
+    //Check
+    <string name="success_login">Successfully Logged!</string>
+    <string name="check_purpose">Please check your purpose</string>
+    <string name="buyer">Buyer</string>
+    <string name="seller">Seller</string>
+    <string name="continue_buyer">Continue as a Buyer</string>
+    <string name="continue_seller">Continue as a Seller</string>
+
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+        tempor incididunt ut labore et dolore magna aliqua.</string>
+
+
+    //home
+    <string name="discover">Discover</string>
+    <string name="discover_text">Find anything what you want</string>
+    <string name="search">Search here...</string>
+    <string name="popular">Popular</string>
+
+</resources>
